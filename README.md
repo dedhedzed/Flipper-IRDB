@@ -1,6 +1,6 @@
 # Flipper-IRDB  
 
-A **maintained** collective of different IR files for the Flipper! We'd love to have your additions! [See here.](https://github.com/UberGuidoZ/Flipper-IRDB/blob/main/README.md#organization)
+A **maintained** and **free** collective of different IR files for the Flipper! We'd love to have your additions! [See here.](https://github.com/UberGuidoZ/Flipper-IRDB/blob/main/README.md#organization)
 
 Maintainers/Major contributors include:
 * [Lucaslhm](https://github.com/Lucaslhm) (*[Maintained Repo](https://github.com/Lucaslhm/Flipper-IRDB)*)
